@@ -1,5 +1,4 @@
 import requests
-from websocket import *
 
 
 class UniApi(object):
